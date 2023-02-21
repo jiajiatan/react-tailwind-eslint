@@ -49,3 +49,7 @@ https://daisyui.com/docs/install/
 https://mui.com/material-ui/getting-started/installation/
 
 https://dev.to/knowankit/setup-eslint-and-prettier-in-react-app-357b
+
+https://mui.com/material-ui/guides/interoperability/
+
+[Style Material UI component with Tailwindcss](https://www.youtube.com/watch?v=QQIfuMlA6TI)
